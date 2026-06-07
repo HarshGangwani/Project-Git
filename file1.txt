@@ -1,7 +1,2 @@
-
-This is third file in master.v3
-
-This is first file in master
-This is first file in branch1.v2
-This is second file in branch1.v3
+Change in branch 1 on github
 
